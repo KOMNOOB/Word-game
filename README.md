@@ -5,7 +5,7 @@ This repository contains python based a simple interactive word game.
 ## Running Tic-Tac-Toe:
 
 ```bash
-git clone link
+git clone https://github.com/KOMNOOB/Word-game.git
 cd Tic-Tac-Toe
 python main.py
 ```
